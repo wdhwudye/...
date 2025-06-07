@@ -8,7 +8,7 @@
 
     <meta property="og:type" content="website" />
     <meta property="og:title" content="LINE公式アカウント クーポン(LINE Official Account coupon)" />
-    <meta property="og:url" content="https://line.me/ti/p/LkAfGJBKb8" />
+    <meta property="og:url" content="https://line.me/ti/p/LkAfGJBKb8-DxN9w07M/c/01JX1MPCNAMHKPNWA1WSGAJWP0" />
     <meta property="og:image" content="https://obs.line-scdn.net/0h4qefX3RQa15YH0JYhwMUCXlCYDxrfXVVenkjPHgWPGx3JipmbC0gaiobYjxyLX8BYXxwOhMfPTwmJikJYjwlanVKYmZ3fA/f256x256" />
     <meta property="og:description" content="リンクを開くにはこちらをタップ" />
 
