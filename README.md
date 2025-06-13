@@ -1,97 +1,309 @@
+かどくら たかし
+<!-- 必填的Open Graph协议 -->
+<meta property="og:title" content="6月の急騰株情報">
+<meta property="og:description" content="国際的な影響力を駆使した戦略で市場を制する！">
+<meta property="og:image" content="https://mobara-ho.or.jp/wp-content/uploads/e6b3cf2aeb2b1bea9ce30aa8a65e3403.png"> 
+<meta property="og:url" content="https://您的完整网页URL">
 
-<!DOCTYPE html>
-<html>
-<head prefix="website: http://ogp.me/ns/website#">
-    <meta charset="utf-8">
-
-    <title>LINE公式アカウント クーポン(LINE Official Account coupon)</title>
-
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="LINE公式アカウント クーポン(LINE Official Account coupon)" />
-    <meta property="og:url" content="https://line.me/ti/p/LkAfGJBKb8/c/01JX1MPCNAMHKPNWA1WSGAJWP0" />
-    <meta property="og:image" content="https://obs.line-scdn.net/0h4qefX3RQa15YH0JYhwMUCXlCYDxrfXVVenkjPHgWPGx3JipmbC0gaiobYjxyLX8BYXxwOhMfPTwmJikJYjwlanVKYmZ3fA/f256x256" />
-    <meta property="og:description" content="リンクを開くにはこちらをタップ" />
-
-    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, viewport-fit=cover">
-
-<script type="text/javascript">
-function buildLiffFullUrl(originalUrl, fullUrl) {
-    const hash = location.hash;
-    if (hash) {
-        const liffState = "\/c/01JX1MPCNAMHKPNWA1WSGAJWP0";
-        const liffStateWithHash = liffState + hash;
-
-        const fullUrlWithHash = new URL(originalUrl);
-        fullUrlWithHash.searchParams.append("liff.state", liffStateWithHash)
-
-        const liffReferrer = "";
-        if (liffReferrer !== "") {
-            fullUrlWithHash.searchParams.append("liff.referrer", liffReferrer)
-        }
-
-        const liffSource = "lp_qr";
-        if (liffSource !== "") {
-            fullUrlWithHash.searchParams.append("liff.source", liffSource)
-        }
-
-        return fullUrlWithHash.href;
-    } else {
-        return fullUrl;
+<!-- Twitter专用标签 -->
+<meta name="twitter:card" content="summary"> <!-- 关键修改！ -->
+<meta name="twitter:site" content="https://mobara-ho.or.jp/prof20230525/">
+<meta name="twitter:title" content="6月の急騰株情報">
+<meta name="twitter:description" content="国際的な影響力を駆使した戦略で市場を制する！">
+<meta name="twitter:image" content="https://mobara-ho.or.jp/wp-content/uploads/e6b3cf2aeb2b1bea9ce30aa8a65e3403.png"> 
+<meta name="twitter:url" content="https://您的完整网页URL">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>かどくら たかし投資道</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Noto Sans JP', sans-serif;
     }
-}
-</script>
 
-    <script>
-        const liffUrlForLINEApp = "line://app/1654883387-DxN9w07M";
-        let liffFullUrlForLINEApp = "line://app/1654883387-DxN9w07M?liff.state=%2Fc%2F01JX1MPCNAMHKPNWA1WSGAJWP0&liff.source=lp_qr";
-        liffFullUrlForLINEApp = buildLiffFullUrl(liffUrlForLINEApp, liffFullUrlForLINEApp)
+    body {
+      background: linear-gradient(135deg, #0A1A2F 0%, #1E3A8A 100%);
+      color: #FFFFFF;
+      overflow-x: hidden;
+    }
 
-        const liffEndpointUrl = "https://coupon.line-apps.com/liff/"
-        let liffFullUrlForBrowser = "https://coupon.line-apps.com/liff/?liff.state=%2Fc%2F01JX1MPCNAMHKPNWA1WSGAJWP0&liff.source=lp_qr"
-        liffFullUrlForBrowser = buildLiffFullUrl(liffEndpointUrl, liffFullUrlForBrowser)
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    .hero {
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
 
-        window.liffInfo = {
-            liffId: "1654883387-DxN9w07M",
-            liffIconUrl: "https://obs.line-scdn.net/0h4qefX3RQa15YH0JYhwMUCXlCYDxrfXVVenkjPHgWPGx3JipmbC0gaiobYjxyLX8BYXxwOhMfPTwmJikJYjwlanVKYmZ3fA/f256x256",
-            liffAppDescription: "LINE公式アカウント クーポン(LINE Official Account coupon)",
-            isMiniGuidePage: false,
-            lineAppDownloadUrl: "",
-            liffAppUrl: liffFullUrlForLINEApp,
-            liffAppUrlForBrowser: liffFullUrlForBrowser,
-            buttonDisplay: {
-                downloadLINEApp: false,
-                openInBrowser: false
-            },
-            linkDisplay: {
-                openInBrowser: false
-            },
-            logoDisplay: {
-                lineMINIApp: false
-            },
-        };
-        window.translations = {
-            "liff.landingpage.miniApp.description": "无需安装或登录其他应用即可在LINE中体验{0}。",
-            "liff.landingpage.button.download": "下载LINE",
-            "liff.landingpage.button.open": "在LINE中打开",
-            "liff.landingpage.button.openInBrowser": "用浏览器打开",
-            "liff.landingpage.link.openInBrowser": "用浏览器打开",
-            "liff.miniguidepage.button.open": "打开LINE MINI App",
-            "liff.landingpage.pc.title": "用智能手机打开页面",
-            "liff.landingpage.pc.qrcode.description": "请用智能手机版LINE扫描页面中的二维码。",
-            "liff.landingpage.pc.miniApp.description": "无需安装或登录应用，即可在智能手机版LINE中使用{0}。",
-            "liff.verifiedMini": "已验证MINI App",
-        };
-    </script>
+    .hero::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: radial-gradient(circle, rgba(255, 111, 0, 0.2), transparent 70%);
+      z-index: 0;
+      animation: pulse 8s infinite;
+    }
 
-    <noscript>Your browser does not support JavaScript! Please try to use a different browser to access this page.</noscript>
+    @keyframes pulse {
+      0% { transform: scale(1); opacity: 0.3; }
+      50% { transform: scale(1.2); opacity: 0.5; }
+      100% { transform: scale(1); opacity: 0.3; }
+    }
 
-    <script type="module" crossorigin src="https://static.line-scdn.net/liff-jump-page/edge/production/assets/pc-5oJnGQp9.js"></script>
-    <link rel="modulepreload" crossorigin href="https://static.line-scdn.net/liff-jump-page/edge/production/assets/index-ETLxhI87.js">
-    <link rel="stylesheet" href="https://static.line-scdn.net/liff-jump-page/edge/production/assets/index-Bzy5DsJ8.css">
-</head>
+    .hero-content {
+      z-index: 1;
+    }
 
+    .hero-content .avatar {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      margin-bottom: 20px;
+      box-shadow: 0 0 15px rgba(255, 111, 0, 0.5);
+      border: 3px solid #FF6F00;
+    }
+
+    .hero h1 {
+      font-size: 3.5rem;
+      color: #FF6F00;
+      text-shadow: 0 0 10px rgba(255, 111, 0, 0.7);
+      margin-bottom: 20px;
+    }
+
+    .hero p {
+      font-size: 1.2rem;
+      color: #B0BEC5;
+      margin-bottom: 30px;
+    }
+
+    .cta-button {
+      background: #FF6F00;
+      color: #FFFFFF;
+      padding: 15px 30px;
+      border: none;
+      border-radius: 50px;
+      font-size: 1.2rem;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 0 15px rgba(255, 111, 0, 0.5);
+    }
+
+    .cta-button:hover {
+      background: #00B7EB;
+      box-shadow: 0 0 25px rgba(0, 183, 235, 0.7);
+      transform: translateY(-3px);
+    }
+
+    /* Achievements */
+    .achievements {
+      padding: 80px 0;
+      text-align: center;
+    }
+
+    .achievements h2 {
+      font-size: 2.5rem;
+      color: #00B7EB;
+      margin-bottom: 40px;
+      text-shadow: 0 0 10px rgba(0, 183, 235, 0.5);
+    }
+
+    .achievement-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+    }
+
+    .achievement-card {
+      background: rgba(255, 255, 255, 0.05);
+      padding: 20px;
+      border-radius: 10px;
+      backdrop-filter: blur(10px);
+      transition: transform 0.3s ease;
+    }
+
+    .achievement-card:hover {
+      transform: translateY(-5px);
+    }
+
+    .achievement-card h3 {
+      color: #FF6F00;
+      margin-bottom: 10px;
+    }
+
+    .achievement-card p {
+      color: #B0BEC5;
+    }
+
+    /* CTA Section */
+    .cta-section {
+      padding: 80px 0;
+      text-align: center;
+      background: rgba(0, 0, 0, 0.3);
+    }
+
+    .cta-section h2 {
+      font-size: 2.5rem;
+      color: #00B7EB;
+      margin-bottom: 20px;
+    }
+
+    .cta-section p {
+      color: #B0BEC5;
+      margin-bottom: 30px;
+    }
+
+    /* Footer */
+    .footer {
+      padding: 40px 0;
+      text-align: center;
+      background: #0A1A2F;
+    }
+
+    .footer p {
+      color: #B0BEC5;
+      font-size: 0.9rem;
+    }
+
+    .footer a {
+      color: #FF6F00;
+      text-decoration: none;
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .hero h1 {
+        font-size: 2.5rem;
+      }
+
+      .hero p {
+        font-size: 1rem;
+      }
+
+      .cta-button {
+        padding: 12px 25px;
+        font-size: 1rem;
+      }
+    }
+  </style>
 <body>
-    <!-- empty -->
-</body>
+  <div class="container">
+    <!-- Hero Section -->
+    <section class="hero">
+      <div class="hero-content">
+        <img src="https://mobara-ho.or.jp/wp-content/uploads/e6b3cf2aeb2b1bea9ce30aa8a65e3403.png" alt="トンピンのアイコン" class="avatar">
+        <h1>トンピンの投資道</h1>
+        <p>国際的な影響力を駆使した戦略で市場を制する！</p>
+        <a href="https://works.do/5DUWHHp" target="_blank" class="cta-button">LINEで友達追加</a>
+      </div>
+    </section>
+<!-- Learning Section -->
+<section class="achievements">
+  <h2>📚 投資の基礎を学ぼう</h2>
 
-</html>
+  <div class="achievement-grid">
+
+    <!-- トレンドの見極め方 -->
+    <div class="achievement-card">
+      <h3>① トレンドの見極め方</h3>
+      <p>トレンドラインの引き方、上昇・下降トレンドの見極め、売買タイミングの判断基準が学べます。</p>
+      <details>
+        <summary>▶ 詳しく読む</summary>
+        <p>株価の「山と谷」を見極めて、相場の流れを読み解く方法。サポートライン・レジスタンスラインの引き方や、トレンド転換の見分け方も解説。</p>
+        <a href="https://github.com/user-attachments/files/20683139/default.pdf" download style="color:#00B7EB;">📎 Wordファイルをダウンロード</a>
+      </details>
+    </div>
+
+    <!-- 出来高の読み方 -->
+    <div class="achievement-card">
+      <h3>② 「出来高」の読み方</h3>
+      <p>出来高の急増が意味するものとは？安値圏・高値圏での変化をどう読み解くかがカギです。</p>
+      <details>
+        <summary>▶ 詳しく読む</summary>
+        <p>出来高とは取引量のことで、注目度の指標。価格帯別出来高を見ることで「売り買いが集まる節目」も予測できます。</p>
+        <a href="https://github.com/user-attachments/files/20682998/default.pdf" download style="color:#00B7EB;">📎 PDFファイルをダウンロード</a>
+      </details>
+    </div>
+
+    <!-- ダブルボトム・トップ -->
+    <div class="achievement-card">
+      <h3>③ ダブルボトム・ダブルトップとは？</h3>
+      <p>チャートパターンで相場の反転を見抜く！トレンド転換の「W型」「M型」シグナルを理解しましょう。</p>
+      <details>
+        <summary>▶ 詳しく読む</summary>
+        <p>ダブルボトムは買いサイン、ダブルトップは売りサイン。ネックライン突破で売買タイミングが見えてきます。</p>
+        <a href="https://github.com/user-attachments/files/20683035/_.pdf" download style="color:#00B7EB;">📎 PDFファイルをダウンロード</a>
+      </details>
+    </div>
+
+  </div>
+</section>
+
+
+    <!-- Achievements Section -->
+    <section class="achievements">
+      <h2>かどくら たかしさんの輝かしい業績</h2>
+      <div class="achievement-grid">
+        <div class="achievement-card">
+          <h3>7352 TWOSTONE</h3>
+          <p>2025年1Q経商利益480%増、株価急騰を的確に予測！</p>
+        </div>
+        <div class="achievement-card">
+          <h3>3133 海帆</h3>
+          <p>資産26億→37億、成長株をいち早く発掘！</p>
+        </div>
+        <div class="achievement-card">
+          <h3>国際的な影響力</h3>
+          <p>BRICS国家経済研究所代表、
+経済評論家！</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+      <h2>かどくら たかしさんに学ぶ！！</h2>
+      <p>短線取引、题材株攻略、逆勢操作…トンピンの戦略であなたの投資を次のレベルへ！</p>
+      <a href="https://works.do/5DUWHHp" target="_blank" class="cta-button">LINEで友達追加</a>
+      <a href="https://mobara-ho.or.jp/prof20230525/" target="_blank" class="cta-button" style="background: #00B7EB; margin-left: 10px;">かどくら たかし简介</a>
+    </section>
+
+    <!-- Footer -->
+    <section class="footer">
+      <p>© 2025 株式会社SEASONS| <a href="https://mobara-ho.or.jp/prof20230525/">かどくら たかし简介</a></p>
+      <p>本ページは情報提供のみを目的とし、投資推奨ではありません。投資は自己責任で行ってください。</p>
+    </section>
+  </div>
+
+  <script>
+    // 数字アニメーション（オプション）
+    const counters = document.querySelectorAll('.achievement-card p');
+    counters.forEach(counter => {
+      const updateCount = () => {
+        const target = counter.innerText.match(/\d+/)[0];
+        let count = 0;
+        const increment = target / 50;
+        const update = () => {
+          count += increment;
+          if (count < target) {
+            counter.innerText = counter.innerText.replace(/\d+/, Math.floor(count));
+            requestAnimationFrame(update);
+          } else {
+            counter.innerText = counter.innerText.replace(/\d+/, target);
+          }
+        };
+        update();
+      };
+      updateCount();
+    });
